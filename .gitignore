@@ -1,0 +1,4 @@
+pkg/
+.cquery
+xrdb-get
+xrdb-get-git-*.pkg.tar.xz
